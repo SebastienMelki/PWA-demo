@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["images/anghami-logo.jpeg","11dc24f48ee6a413e95cef434875a116"],["index.html","bc42ad36ff97e1f6816695cff425c953"]];
+var precacheConfig = [["images/anghami-logo.jpeg","11dc24f48ee6a413e95cef434875a116"],["index.html","0dcab042b8515ecc97ed63af262bcaa4"]];
 var cacheName = 'sw-precache-v2-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
